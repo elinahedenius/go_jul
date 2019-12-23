@@ -1,4 +1,16 @@
+#body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  background-color: #b5034a;
+}
+
 .image {
-  height: 100px;
-  width: auto; 
+  height: 90vh;
+  width: auto;
+  margin-right: 1em;
+  margin-left: 1em;
+  margin-top: 2em;
+  margin-bottom: 1em;
 }
